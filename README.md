@@ -1,5 +1,5 @@
 # Video Chat Application
-* Deployed at https://desolate-depths-86299.herokuapp.com/
+
 * Only two persons can join in one room
 ## Running the app on development server
 * `npm install`
